@@ -1,0 +1,7 @@
+#include <mtpio/chain/genesis_state.hpp>
+
+namespace mtpio { namespace chain {
+
+const string genesis_state::mtpio_root_key = "${MTPIO_ROOT_KEY}";
+
+} } // namespace mtpio::chain
