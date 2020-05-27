@@ -1,12 +1,12 @@
 
 # MTP - The Most Powerful Infrastructure for Decentralized Applications
 
-[![Build status](https://badge.buildkite.com/370fe5c79410f7d695e4e34c500b4e86e3ac021c6b1f739e20.svg?branch=master)](https://buildkite.com/MTPIO/mtpio)
+[![Build status](https://badge.buildkite.com/370fe5c79410f7d695e4e34c500b4e86e3ac021c6b1f739e20.svg?branch=master)](https://buildkite.com/MTP/MTP)
 
-Welcome to the MTPIO source code repository! 
+Welcome to the MTP source code repository! 
 This software enables businesses to rapidly build and deploy high-performance and high-security blockchain-based applications.
 
-Some of the groundbreaking features of MTPIO include:
+Some of the groundbreaking features of MTP include:
 
 1. Free Rate Limited Transactions
 1. Low Latency Block confirmation (0.5 seconds)
@@ -23,12 +23,12 @@ Some of the groundbreaking features of MTPIO include:
 
 ## Disclaimer
 
-Block.one is neither launching nor operating any initial public blockchains based upon the MTPIO software. This release refers only to version 1.0 of our open source software. We caution those who wish to use blockchains built on MTPIO to carefully vet the companies and organizations launching blockchains based on MTPIO before disclosing any private keys to their derivative software.
+Block.one is neither launching nor operating any initial public blockchains based upon the MTP software. This release refers only to version 1.0 of our open source software. We caution those who wish to use blockchains built on MTP to carefully vet the companies and organizations launching blockchains based on MTP before disclosing any private keys to their derivative software.
  
 
 ## Supported Operating Systems
 
-MTPIO currently supports the following operating systems:  
+MTP currently supports the following operating systems:  
 
 1. Amazon Linux 2
 2. CentOS 7
@@ -39,7 +39,7 @@ MTPIO currently supports the following operating systems:
  
 ## License
 
-MTPIO is released under the open source [MIT](./LICENSE) license and is offered “AS IS” without warranty of any kind, express or implied. Any security provided by the MTPIO software depends in part on how it is used, configured, and deployed. MTPIO is built upon many third-party libraries such as WABT (Apache License) and WAVM (BSD 3-clause) which are also provided “AS IS” without warranty of any kind. Without limiting the generality of the foregoing, Block.one makes no representation or guarantee that MTPIO or any third-party libraries will perform as intended or will be free of errors, bugs or faulty code. Both may fail in large or small ways that could completely or partially limit functionality or compromise computer systems. If you use or implement MTPIO, you do so at your own risk. In no event will Block.one be liable to any party for any damages whatsoever, even if it had been advised of the possibility of damage.  
+MTP is released under the open source [MIT](./LICENSE) license and is offered “AS IS” without warranty of any kind, express or implied. Any security provided by the MTP software depends in part on how it is used, configured, and deployed. MTP is built upon many third-party libraries such as WABT (Apache License) and WAVM (BSD 3-clause) which are also provided “AS IS” without warranty of any kind. Without limiting the generality of the foregoing, Block.one makes no representation or guarantee that MTP or any third-party libraries will perform as intended or will be free of errors, bugs or faulty code. Both may fail in large or small ways that could completely or partially limit functionality or compromise computer systems. If you use or implement MTP, you do so at your own risk. In no event will Block.one be liable to any party for any damages whatsoever, even if it had been advised of the possibility of damage.  
 
 ## Important
 
